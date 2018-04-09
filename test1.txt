@@ -1,0 +1,16 @@
+/opt/netbeans-8.2/bin/netbeans --jdkhome /opt/JDK/jdk1.8.0_92/
+
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+https://netbeans.org/kb/docs/java/quickstart-gui.html
+
+ private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {                                         
+        // TODO add your handling code here:
+        
+    }                                        
+
+    private void jTextField1ActionPerformed(java.awt.event.ActionEvent evt) {                                            
+        // TODO add your handling code here:
+    }    

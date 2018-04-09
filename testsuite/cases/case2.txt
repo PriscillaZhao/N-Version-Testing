@@ -1,0 +1,2 @@
+python3 wcfile/wc1.py -w -c -m -L input/input1.txt input/input2.txt & python3 wcfile/wc2.py -w -c -m -L input/input1.txt input/input2.txt	
+

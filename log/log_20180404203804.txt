@@ -1,0 +1,64 @@
+INFO:root: 0  1  8  8  8 input/input1.txt
+ 0  1 13 13 13 input/input2.txt
+ 0  2 21 21 13 total
+
+INFO:root:
+Expected:
+ 0  1  8  8  8 input/input1.txt
+ 0  1 13 13 13 input/input2.txt
+ 0  2 21 21 13 total
+
+INFO:root:Comparision report is shown as follows
+INFO:root:------------------------------------------------------------------------------
+INFO:root:Congratulations!
+INFO:root:case1_20180404203804.txt is same as case1_expected.txt,you passed the testing.
+INFO:root:------------------------------------------------------------------------------
+
+INFO:root: 0  1  8  8  8 input/input1.txt
+ 0  1 13 13 13 input/input2.txt
+ 0  2 21 21 13 total
+
+INFO:root:
+Expected:
+ 0  1  8  8  8 input/input1.txt
+ 0  1 13 13 13 input/input2.txt
+ 0  2 21 21 13 total
+
+INFO:root:Comparision report is shown as follows
+INFO:root:------------------------------------------------------------------------------
+INFO:root:Congratulations!
+INFO:root:case1_20180404203805.txt is same as case1_expected.txt,you passed the testing.
+INFO:root:------------------------------------------------------------------------------
+
+INFO:root: 1  8  8  8 input/input1.txt
+ 1 13 13 13 input/input2.txt
+ 2 21 21 13 total
+
+INFO:root:
+Expected:
+ 1  8  8  8 input/input1.txt
+ 1 13 13 13 input/input2.txt
+ 2 21 21 13 total
+
+INFO:root:Comparision report is shown as follows
+INFO:root:------------------------------------------------------------------------------
+INFO:root:Congratulations!
+INFO:root:case2_20180404203806.txt is same as case2_expected.txt,you passed the testing.
+INFO:root:------------------------------------------------------------------------------
+
+INFO:root: 1  8  8  8 input/input1.txt
+ 1 13 13 13 input/input2.txt
+ 2 21 21 13 total
+
+INFO:root:
+Expected:
+ 1  8  8  8 input/input1.txt
+ 1 13 13 13 input/input2.txt
+ 2 21 21 13 total
+
+INFO:root:Comparision report is shown as follows
+INFO:root:------------------------------------------------------------------------------
+INFO:root:Congratulations!
+INFO:root:case2_20180404203808.txt is same as case2_expected.txt,you passed the testing.
+INFO:root:------------------------------------------------------------------------------
+
